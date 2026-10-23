@@ -1,0 +1,10 @@
+# Source invitation images (not needed for the live site)
+1.png
+2.png
+3.png
+4.png
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
